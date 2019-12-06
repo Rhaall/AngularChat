@@ -1,0 +1,307 @@
+{
+  "channels": [
+    {
+      "id": 1,
+      "name": "Général"
+    },
+    {
+      "id": 2,
+      "name": "BDE"
+    },
+    {
+      "id": 3,
+      "name": "Vie étudiante"
+    },
+    {
+      "id": 4,
+      "name": "Programmation"
+    }
+  ],
+  "messages": [
+    {
+      "pseudo": "teset",
+      "heure": 57,
+      "id": 1
+    },
+    {
+      "pseudo": "teset",
+      "heure": 57,
+      "id": 2
+    },
+    {
+      "heure": 58,
+      "id": 3
+    },
+    {
+      "heure": 4,
+      "id": 4
+    },
+    {
+      "content": "oui",
+      "heure": 5,
+      "id": 5
+    },
+    {
+      "content": "chibre",
+      "heure": 5,
+      "id": 6
+    },
+    {
+      "content": "ouououo",
+      "heure": 14,
+      "salles": 0,
+      "id": 7
+    },
+    {
+      "content": "ouououo",
+      "heure": 14,
+      "salles": 0,
+      "id": 8
+    },
+    {
+      "content": "test",
+      "heure": 22,
+      "salles": "Général",
+      "id": 9
+    },
+    {
+      "content": "test",
+      "pseudo": "flo",
+      "heure": 23,
+      "salles": "BDE",
+      "id": 10
+    },
+    {
+      "content": "moui",
+      "heure": 26,
+      "salles": "Vie étudiante",
+      "id": 11
+    },
+    {
+      "content": "re",
+      "heure": 26,
+      "salles": "Vie étudiante",
+      "id": 12
+    },
+    {
+      "content": "test",
+      "heure": 26,
+      "minutes": 11,
+      "salles": "Vie étudiante",
+      "id": 13
+    },
+    {
+      "content": "test",
+      "heure": 27,
+      "minutes": 11,
+      "id": 14
+    },
+    {
+      "content": "test",
+      "pseudo": "cheh",
+      "heure": 27,
+      "minutes": 11,
+      "salles": "Programmation",
+      "id": 15
+    },
+    {
+      "content": "elrjn",
+      "heure": 27,
+      "minutes": 11,
+      "salles": "Programmation",
+      "id": 16
+    },
+    {
+      "content": "test",
+      "pseudo": null,
+      "heure": 32,
+      "minutes": 11,
+      "id": 17
+    },
+    {
+      "content": "hh",
+      "pseudo": "flo",
+      "heure": 34,
+      "minutes": 11,
+      "salles": "BDE",
+      "id": 18
+    },
+    {
+      "content": "test",
+      "pseudo": "sam",
+      "heure": 35,
+      "minutes": 11,
+      "salles": "Programmation",
+      "id": 19
+    },
+    {
+      "content": "ff",
+      "pseudo": "sam",
+      "heure": 35,
+      "minutes": 11,
+      "id": 20
+    },
+    {
+      "content": "ff",
+      "pseudo": "sam",
+      "heure": 35,
+      "minutes": 11,
+      "id": 21
+    },
+    {
+      "content": "ff",
+      "pseudo": "sam",
+      "heure": 35,
+      "minutes": 11,
+      "id": 22
+    },
+    {
+      "content": "ff",
+      "pseudo": "sam",
+      "heure": 35,
+      "minutes": 11,
+      "id": 23
+    },
+    {
+      "content": "ff",
+      "pseudo": "sam",
+      "heure": 35,
+      "minutes": 11,
+      "id": 24
+    },
+    {
+      "content": "ff",
+      "pseudo": "sam",
+      "heure": 35,
+      "minutes": 11,
+      "id": 25
+    },
+    {
+      "content": "ff",
+      "pseudo": "sam",
+      "heure": 35,
+      "minutes": 11,
+      "id": 26
+    },
+    {
+      "content": "ff",
+      "pseudo": "sam",
+      "heure": 35,
+      "minutes": 11,
+      "id": 27
+    },
+    {
+      "content": "ff",
+      "pseudo": "sam",
+      "heure": 35,
+      "minutes": 11,
+      "id": 28
+    },
+    {
+      "content": "ff",
+      "pseudo": "sam",
+      "heure": 35,
+      "minutes": 11,
+      "id": 29
+    },
+    {
+      "content": "ff",
+      "pseudo": "sam",
+      "heure": 35,
+      "minutes": 11,
+      "id": 30
+    },
+    {
+      "content": "ff",
+      "pseudo": "sam",
+      "heure": 35,
+      "minutes": 11,
+      "id": 31
+    },
+    {
+      "pseudo": "sam",
+      "heure": 35,
+      "minutes": 11,
+      "id": 32
+    },
+    {
+      "pseudo": "sam",
+      "heure": 35,
+      "minutes": 11,
+      "id": 33
+    },
+    {
+      "content": "sz",
+      "pseudo": "sam",
+      "heure": 35,
+      "minutes": 11,
+      "id": 34
+    },
+    {
+      "content": "sz",
+      "pseudo": "sam",
+      "heure": 35,
+      "minutes": 11,
+      "id": 35
+    },
+    {
+      "content": "sz",
+      "pseudo": "sam",
+      "heure": 35,
+      "minutes": 11,
+      "id": 36
+    },
+    {
+      "content": "sz",
+      "pseudo": "sam",
+      "heure": 35,
+      "minutes": 11,
+      "id": 37
+    },
+    {
+      "content": "rr",
+      "pseudo": "sam",
+      "heure": 35,
+      "minutes": 11,
+      "salles": "Général",
+      "id": 38
+    },
+    {
+      "content": "rrr",
+      "pseudo": "sam",
+      "heure": 36,
+      "minutes": 11,
+      "salles": "Général",
+      "id": 39
+    },
+    {
+      "content": "yu",
+      "pseudo": "sam",
+      "heure": 36,
+      "minutes": 11,
+      "id": 40
+    },
+    {
+      "content": "yu",
+      "pseudo": "sam",
+      "heure": 36,
+      "minutes": 11,
+      "id": 41
+    },
+    {
+      "content": "yu",
+      "pseudo": "sam",
+      "heure": 36,
+      "minutes": 11,
+      "id": 42
+    },
+    {
+      "content": "bonsoir",
+      "pseudo": "antho",
+      "heure": 57,
+      "minutes": 11,
+      "salles": "Général",
+      "id": 43
+    }
+  ]
+}

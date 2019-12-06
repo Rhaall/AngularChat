@@ -1,0 +1,7 @@
+
+
+<li *ngFor="let item of salleNames; let i = index">
+    <button routerLink="/salle" id='{{item.name}}' mat-button	 (click)="salleChosed(item.name)">
+    {{i}} {{item.name}}</button>
+    
+  </li>

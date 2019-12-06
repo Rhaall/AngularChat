@@ -1,0 +1,17 @@
+<p>{{currentroom}} logged as {{currentPseudo}}</p> 
+<a *ngFor="let item of messagesList; let i = index">
+  <div *ngIf="item.salles==currentroom">
+     {{item.pseudo}} said : {{item.content}} at  {{item.minutes}} : {{item.heure}}
+    </div>
+  </a>
+
+<input type="text"  [(ngModel)]="contents"/>
+<div class="input-group-append">
+        <button mat-button	
+          class="btn btn-outline-secondary"
+          (click)="sendmessage()"
+          type="button"
+        >
+          Entrer
+        </button>
+      </div>

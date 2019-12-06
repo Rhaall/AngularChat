@@ -1,0 +1,19 @@
+
+<input
+      type="text"
+      [(ngModel)]="newUser"
+      class="form-control"
+      placeholder="Pseudo"
+      aria-label="Pseudo"
+      aria-describedby="basic-addon2"
+    />
+    <div class="input-group-append">
+        <button mat-button	
+          class="btn btn-outline-secondary"
+          (click)="log()"
+          type="button"
+          routerLink="/ListesSalles"
+        >
+          Entrer
+        </button>
+      </div>

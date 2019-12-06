@@ -1,0 +1,12 @@
+<mat-toolbar color="primary">
+    <span>My Application</span>
+    <button (click)="deco()" mat-button routerLink="/Login" style="position: absolute;  right: 0px;">
+    <mat-icon _ngcontent-tln-c469="" aria-hidden="false" aria-label="Example delete icon" class="example-icon mat-icon notranslate material-icons mat-icon-no-color" role="img">delete</mat-icon>
+      Deconnexion
+  </button>
+  </mat-toolbar>
+  
+<p hidden="true" routerLink="/Login" routerLinkActive="active"> </p>
+<div style="position: absolute;  right: 50%;top:10%">
+<router-outlet></router-outlet>
+</div>
